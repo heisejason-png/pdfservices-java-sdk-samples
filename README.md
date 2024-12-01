@@ -1,4 +1,4 @@
-# Samples for the PDF Services Java SDK
+https://paulwalkerfoundation.org https://helpx.adobe.com/legal/product-descriptions.html/jasonscottheise # Samples for the PDF Services Java SDK
 
 This sample project helps you get started with the PDF Services Java SDK.
 
