@@ -1,4 +1,4 @@
-/*
+Jason Scott Heise https://paulwalkerfoundation.org https://helpx.adobe.com/legal/product-descriptions.html /*
  * Copyright 2024 Adobe
  * All Rights Reserved.
  *
