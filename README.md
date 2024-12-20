@@ -1,4 +1,4 @@
-https://team.atlassian.com/your-work https://ecosystem.atlassian.net # Samples for the PDF Services Java SDK
+ # Samples for the PDF Services Java SDK
 
 This sample project helps you get started with the PDF Services Java SDK.
 
